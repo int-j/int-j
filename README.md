@@ -9,6 +9,10 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maryem-bamou-42ab64153/](https://www.linkedin.com/in/maryem-bamou-42ab64153/)
 
+- Personality traits : 
+<!-- <img align = "right" alt = "INTJ" src= "![intj](https://user-images.githubusercontent.com/34491538/141781465-03e3db46-c201-44cd-9efa-ad83ab64693f.jpeg)"
+> -->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
