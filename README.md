@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maryem.bamou@iu-study.org**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maryembamou/]((https://www.linkedin.com/in/maryembamou/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/maryembamou/]((https://www.linkedin.com/in/maryembamou/)
 
 - Personality traits : 
 <!-- <img align = "right" alt = "INTJ" src= "![intj](https://user-images.githubusercontent.com/34491538/141781465-03e3db46-c201-44cd-9efa-ad83ab64693f.jpeg)"
