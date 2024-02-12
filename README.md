@@ -22,10 +22,9 @@
 <a href="https://twitter.com/maryembamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maryembamou" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maryembamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryembamou" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9073945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9073945" height="30" width="40" /></a>
-<a href="https://fb.com/maryembamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maryembamou" height="30" width="40" /></a>
-<a href="https://instagram.com/maryembamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maryembamou" height="30" width="40" /></a>
+
 <a href="https://medium.com/@maryembamou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maryembamou" height="30" width="40" /></a>
-<a href="https://discord.gg/8C5Qwsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8C5Qwsf" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
